@@ -18,3 +18,5 @@ This repository contains demonstrations of the following deep-learning technique
 	- generate covariates (LDW data)
 
 Note: the code and examples in the repository are for pedagogical purposes and thus have not been enhanced for efficiency and performance.
+
+A collection of DL modules implemented from scratch using NumPy can be found in another repository here: https://github.com/weili-code/DeepLearning_numpy/tree/main
