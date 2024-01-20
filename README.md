@@ -1,6 +1,6 @@
-# Deep Learning (Pytorch examples)
+# Deep Learning (PyTorch examples)
 
-This repository contains demonstration of the following deep learning techniques implemented with Pytorch.
+This repository contains demonstrations of the following deep-learning techniques implemented with Pytorch.
 
 - mlp: Multiple Layer Perceptions (deep feedforward neural network)
 	- regression (LDW data) 
@@ -17,4 +17,4 @@ This repository contains demonstration of the following deep learning techniques
 	- generate images (MNIST)
 	- generate covariates (LDW data)
 
-Note: the code and examples in the repository are for pedagogical purpose and thus have not been enhanced for efficiency and performance.
+Note: the code and examples in the repository are for pedagogical purposes and thus have not been enhanced for efficiency and performance.
