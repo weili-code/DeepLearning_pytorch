@@ -1,5 +1,7 @@
 # Deep Learning (PyTorch examples)
 
+In progress...
+
 This repository contains demonstrations of the following deep-learning techniques implemented with Pytorch.
 
 - mlp: Multiple Layer Perceptions (deep feedforward neural network)
