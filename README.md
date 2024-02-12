@@ -4,7 +4,7 @@ In progress...
 
 This repository contains demonstrations of the following deep-learning techniques implemented with Pytorch.
 
-- mlp: Multiple Layer Perceptions (deep feedforward neural network)
+- mlp: Multiple Layer Perceptrons (deep feedforward neural network)
 	- regression (LDW data) 
 	- classification (LDW data) 	
 - cnn: 2D Convolutional Neural Network
