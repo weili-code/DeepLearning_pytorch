@@ -1,24 +1,46 @@
 # Deep Learning (PyTorch examples)
 
-In progress...
 
-This repository contains demonstrations of the following deep-learning techniques implemented with Pytorch.
+## Overview
+This repository contains a collection of deep learning models implemented in PyTorch, 
+covering multiple data modalities including tabular data, images, text, and audio.
 
-- mlp: Multiple Layer Perceptrons (deep feedforward neural network)
-	- regression (LDW data) 
-	- classification (LDW data) 	
-- cnn: 2D Convolutional Neural Network
-	- classification (mask detection)
-	- classification (MNIST data)
-- rnn: Recurrent Neural Network	
-	- rnn: classification (RAVDESS audio)
-	- lstm: classification (Youtube comments) 
-- atten: Attention Model
-	-  transformers (language translation)
-- gan: Generative Adversarial Network
-	- generate images (MNIST)
-	- generate covariates (LDW data)
+The goal is to demonstrate end-to-end model development, including data processing, 
+model design, training, and evaluation across a range of practical tasks.
 
-Note: the code and examples in the repository are for pedagogical purposes and thus have not been enhanced for efficiency and performance.
+## Covered Areas
 
-A collection of DL modules implemented from scratch using NumPy can be found in another repository here: https://github.com/weili-code/DeepLearning_numpy/tree/main
+### Tabular Data
+- Regression (LDW dataset)
+- Classification (LDW dataset)
+
+### Computer Vision
+- CNN-based classification (MNIST)
+- Mask detection
+
+### Sequence Models
+- RNN-based audio classification (RAVDESS)
+- LSTM-based text classification (YouTube comments)
+
+### Attention & Transformers
+- Attention-based models
+- Transformer model for language translation
+
+### Generative Models
+- GAN for image generation (MNIST)
+- GAN for synthetic covariate generation (LDW data)
+
+## Key Features
+
+- Multi-domain applications (vision, NLP, audio, tabular)
+- End-to-end pipelines (data → model → training → evaluation)
+- Modular PyTorch implementations
+- Consistent structure across tasks
+
+### Tech Stack
+Python, PyTorch
+
+### Related Work
+
+A NumPy-based deep learning framework implemented from scratch is available here:
+https://github.com/weili-code/DeepLearning_numpy
